@@ -1,7 +1,8 @@
-<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/6021aca2-f7f7-4d9c-8aac-d474316010c3" /># 🎵 Offline Music Player (Flutter)
+# 🎵 Offline Music Player (Flutter)
 
 Ứng dụng **nghe nhạc offline** được xây dựng bằng **Flutter**, cho phép phát nhạc từ thiết bị, quản lý playlist và lưu trạng thái phát nhạc.
 
+Video demo: https://drive.google.com/file/d/19Qhs53m-U1B4enLV2a2pWtdMA2n0zdun/view?usp=drive_link
 ---
 
 ## 📌 Mục tiêu dự án
@@ -90,3 +91,38 @@ assets/
 │   └── sample_songs/
 └── images/
     └── default_album_art.png
+
+```
+
+---
+
+### 🛠 Công nghệ sử dụng ###
+
+- Flutter (SDK >= 3.0.0)
+- Provider – quản lý state
+- just_audio – phát nhạc
+- audio_session – audio focus
+- on_audio_query_forked – truy vấn nhạc thiết bị
+- shared_preferences – lưu dữ liệu
+- permission_handler – xin quyền truy cập bộ nhớ
+
+---
+
+### ▶️ Cách chạy dự án
+## 1️⃣ Cài dependency
+```
+flutter pub get
+```
+
+## 2️⃣ Chạy ứng dụng
+```
+flutter run
+```
+
+---
+
+### 👨‍🎓 Thông tin sinh viên
+
+Tên: Trần Phước Yên
+
+MSSV: 2224802010093
