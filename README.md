@@ -108,21 +108,23 @@ assets/
 
 ---
 
-### ▶️ Cách chạy dự án
-## 1️⃣ Cài dependency
+## ▶️ Cách chạy dự án
+
+### 1️⃣ Cài dependency
 ```
 flutter pub get
 ```
 
-## 2️⃣ Chạy ứng dụng
+### 2️⃣ Chạy ứng dụng
 ```
 flutter run
 ```
 
 ---
 
-### 👨‍🎓 Thông tin sinh viên
+## 👨‍🎓 Thông tin sinh viên
 
 Tên: Trần Phước Yên
 
 MSSV: 2224802010093
+
